@@ -1,4 +1,4 @@
-# docker-2048
+# 2048
 
 simpler is better
 
